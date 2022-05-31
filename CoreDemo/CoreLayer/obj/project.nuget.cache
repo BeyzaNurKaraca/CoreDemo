@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1QCT+tqJvjOxHbZ1m8LHysKpzuGNLTPO3evWx+5SAcPDEiLKuK8cWb363TpAnG/nQ5DwHm+8YL9VxrH869log==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kkara\\OneDrive\\Masaüstü\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kkara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kkara\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

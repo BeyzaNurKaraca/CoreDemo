@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F170695F-D8D6-4EFD-8123-41AD6A7245C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreDemo/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="CoreDemo/Controllers/HomeController.cs" Line="13" Column="6" />
+      <File FileName="DataAccessLayer/Concrate.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CoreDemo" expanded="True">
+            <Node name="CoreDemo" expanded="True" />
+            <Node name="CoreDemo" expanded="True">
+              <Node name="DataAccessLayer" expanded="True">
+                <Node name="DataAccessLayer" expanded="True">
+                  <Node name="DataAccessLayer.Concrate.Context" selected="True" />
+                </Node>
+              </Node>
+              <Node name="CoreDemo" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoreDemo PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

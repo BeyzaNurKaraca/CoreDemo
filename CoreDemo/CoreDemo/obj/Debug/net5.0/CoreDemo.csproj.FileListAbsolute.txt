@@ -1,0 +1,582 @@
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.exe
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.deps.json
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.json
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.dev.json
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ref\CoreDemo.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.pdb
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.pdb
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.AssemblyReference.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfoInputs.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfo.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\staticwebassets\CoreDemo.StaticWebAssets.Manifest.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\staticwebassets\CoreDemo.StaticWebAssets.xml
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\scopedcss\bundle\CoreDemo.styles.css
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.input.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.output.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorCoreGenerate.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cs
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.Views.pdb
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CopyComplete
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kamer\Desktop\Beyza's Project\MY-DynamicBlogProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.exe
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.deps.json
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.json
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.dev.json
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ref\CoreDemo.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.AssemblyReference.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfoInputs.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfo.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\staticwebassets\CoreDemo.StaticWebAssets.Manifest.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\staticwebassets\CoreDemo.StaticWebAssets.xml
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\scopedcss\bundle\CoreDemo.styles.css
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.input.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.output.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorCoreGenerate.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.Views.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CopyComplete
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
+C:\Users\Aksamci\Desktop\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.Development.json
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.json
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.exe
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.deps.json
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.json
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.dev.json
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ref\CoreDemo.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Humanizer.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\BusinessLayer.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLayer.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.dll
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\BusinessLayer.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.pdb
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.AssemblyReference.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfoInputs.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfo.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CoreCompileInputs.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\staticwebassets\CoreDemo.StaticWebAssets.Manifest.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\staticwebassets\CoreDemo.StaticWebAssets.xml
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\scopedcss\bundle\CoreDemo.styles.css
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.input.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.output.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorCoreGenerate.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.Views.pdb
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CopyComplete
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.dll
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+E:\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.StaticWebAssets.xml
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.exe
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.deps.json
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.json
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.runtimeconfig.dev.json
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\CoreDemo.Views.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.AssemblyReference.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfoInputs.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.AssemblyInfo.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorAssemblyInfo.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\scopedcss\bundle\CoreDemo.styles.css
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\staticwebassets\CoreDemo.StaticWebAssets.Manifest.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.input.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.TagHelpers.output.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorCoreGenerate.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.RazorTargetAssemblyInfo.cs
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.Views.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CopyComplete
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\refint\CoreDemo.dll
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
+C:\Users\kkara\OneDrive\Masaüstü\CoreDemo\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
